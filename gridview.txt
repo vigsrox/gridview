@@ -1,0 +1,2 @@
+Using this code one can achive a persistent grid view of all Applications in Ubuntu.
+Helpfull when it comes to touch devices.
